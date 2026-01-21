@@ -27,10 +27,10 @@ I am constantly expanding my toolkit to include:
 ---
 
 ### 📫 Let's Connect!
-I am always open to collaborating on projects related to **Digital Marketing automation**, **FinTech**, or **Business Analytics**.
+I am always open to collaborating on projects related to **Digital Marketing automation**, or **Business Analytics**.
 
-- 🌍 [Your Website/Portfolio Link]
-- 💼 [Your LinkedIn Profile Link]
-- 📧 YourEmail@example.com
+- 🌍 [https://ashu-kumar16.github.io/ASHU-KUMAR.github.io/]
+- 💼 [https://www.linkedin.com/in/ashu-kumar-a35810328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- 📧 aashu.yadav2313@gmail.com
 
 *"Transforming traditional business logic into digital reality."*
