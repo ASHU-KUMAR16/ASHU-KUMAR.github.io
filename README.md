@@ -13,11 +13,3 @@ from finance_calc import DebtEquity
 ratio = DebtEquity(debt=50000, equity=100000)
 print(ratio)  # Outputs: 0.5
 This format attracts stars and showcases your skills.[4][2]
-
-## Code Starter
-```python
-def debt_equity_ratio(debt, equity):
-    return debt / equity if equity != 0 else 0
-
-# Example usage
-print(debt_equity_ratio(50000, 100000))  # 0.5
