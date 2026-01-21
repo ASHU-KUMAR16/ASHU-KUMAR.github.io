@@ -4,6 +4,7 @@ Poem 1: The Digital Echo (Modern/Tech Theme)
 Use this to show off a "Dark Mode" or modern design.
 
 The cursor blinks, a rhythmic heart, In spaces where the stanzas start. No paper tears, no ink to bleed, Just pixels planted like a seed. A poem lives in lines of code, Upon this silicon-paved road.
+
 Poem 3: The Unwritten (Short/Minimalist)
 Use this for a "Minimalist" section.
 
