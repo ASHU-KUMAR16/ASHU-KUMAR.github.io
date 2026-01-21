@@ -1,10 +1,23 @@
 # ASHU-KUMAR.github.io
-"Welcome to my digital collection. This site serves as a living archive of verses—some written in the quiet of midnight, others in the rush of the morning. Here, words are more than just ink; they are mirrors."
+# Commerce Finance Calculator
+A tool for Class 12 commerce students to analyze financial metrics. Supports e-commerce profit projections.
 
-Poem 1: The Digital Echo 
+## Features
+- Debt-equity ratio calculator
+- Dividend policy simulator
+- NPV for business investments
 
-The cursor blinks, a rhythmic heart, In spaces where the stanzas start. No paper tears, no ink to bleed, Just pixels planted like a seed. A poem lives in lines of code, Upon this silicon-paved road.
+## Quick Start
+```python
+from finance_calc import DebtEquity
+ratio = DebtEquity(debt=50000, equity=100000)
+print(ratio)  # Outputs: 0.5
+This format attracts stars and showcases your skills.[4][2]
 
-Poem 2: The Unwritten 
+## Code Starter
+```python
+def debt_equity_ratio(debt, equity):
+    return debt / equity if equity != 0 else 0
 
-The loudest song Is the one Still trapped Behind your teeth.
+# Example usage
+print(debt_equity_ratio(50000, 100000))  # 0.5
