@@ -1,8 +1,36 @@
 # ASHU-KUMAR.github.io
-# Commerce Finance Calculator
-A tool for Class 12 commerce students to analyze financial metrics. Supports e-commerce profit projections.
+# Hi there, I'm Ashu Kumar! 👋
 
-## Features
-- Debt-equity ratio calculator
-- Dividend policy simulator
-- NPV for business investments
+I am a driven **BBA Digital Marketing** student with a passion for bridging the gap between business strategy and technical implementation. Originally from **Patna, Bihar**, I am currently pursuing my degree at **Dev Bhoomi Uttarakhand University (DBUU)** in the serene hills of **Dehradun**.
+
+### 🚀 About Me
+My journey is fueled by a curiosity for how digital ecosystems work. While my academic background is rooted in Management and Marketing, I believe that the future of marketing lies in **Data, Automation, and Code**. 
+
+- 📍 **Hometown:** Patna, Bihar
+- 🎓 **Education:** Pursuing BBA in Digital Marketing at Dev Bhoomi Uttarakhand University
+- 💡 **Interests:** Digital marketing, SEO Automation, and Web Development
+
+---
+
+### 🛠️ What I'm Building
+I use GitHub to host projects that solve real-world business and educational problems. My current focus is the **Commerce Finance Calculator**, a tool designed to help students and entrepreneurs simplify complex financial metrics like:
+* **Debt-Equity Ratios** for capital structure analysis.
+* **NPV (Net Present Value)** for investment appraisal.
+* **Dividend Policy Simulations** for corporate finance.
+
+### 📊 Digital Marketing & Tech Stack
+I am constantly expanding my toolkit to include:
+- **Marketing:** SEO/SEM, Content Strategy, and Social Media Analytics.
+- **Development:** HTML5, CSS3, JavaScript (learning to automate marketing workflows).
+- **Tools:** Google Analytics, Meta Business Suite, and GitHub Pages.
+
+---
+
+### 📫 Let's Connect!
+I am always open to collaborating on projects related to **Digital Marketing automation**, **FinTech**, or **Business Analytics**.
+
+- 🌍 [Your Website/Portfolio Link]
+- 💼 [Your LinkedIn Profile Link]
+- 📧 YourEmail@example.com
+
+*"Transforming traditional business logic into digital reality."*
