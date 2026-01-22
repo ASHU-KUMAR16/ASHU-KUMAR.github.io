@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Digital Marketing Tracker</title>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .metric { background: #f0f8ff; padding: 10px; margin: 10px 0; border-radius: 5px; }
+        form { border: 1px solid #ccc; padding: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Lead Tracker Dashboard</h1>
+    
+    <div id="metrics">
+        <div class="metric">Total Leads: <span id="totalLeads">0</span></div>
+        <div class="metric">Conversion Rate: <span id="conversion">0%</span></div>
+    </div>
+    
+    <form id="leadForm">
+        <input type="email" id="email" placeholder="Enter email" required>
+        <input type="text" id="source" placeholder="Source (e.g., Instagram)" required>
+        <button type="submit">Capture Lead</button>
+    </form>
+
+    <script>
+        let leads = JSON.parse(localStorage.getItem('leads')) || [];
+        
+        function updateMetrics() {
+            document.getElementById('totalLeads').textContent = leads.length;
+            const conversion = leads.length > 0 ? (leads.filter(l => l.converted).length / leads.length * 100).toFixed(1) : 0;
+            document.getElementById('conversion').textContent = conversion + '%';
+        }
+        
+        document.getElementById('leadForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const lead = {
+                email: document.getElementById('email').value,
+                source: document.getElementById('source').value,
+                timestamp: new Date().toISOString(),
+                converted: false  // Toggle for demo
+            };
+            leads.push(lead);
+            localStorage.setItem('leads', JSON.stringify(leads));
+            updateMetrics();
+            alert('Lead captured!');
+        });
+        
+        updateMetrics();  // Load initial metrics
+    </script>
+</body>
+</html>
